@@ -1,0 +1,9 @@
+.conditionNode {
+    height: 120px;
+    width: 150px;
+    background-color: #bf9bf0;
+    border-radius: 5px;
+    padding: 2%;
+    color: #6533a7;
+    font-size: 20px;
+}

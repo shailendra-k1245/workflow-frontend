@@ -1,0 +1,48 @@
+{
+  "workflows": [
+    {
+      "id": "bedcc34f-c008-4d91-8724-8415c25e1f68",
+      "name": "demo workflow",
+      "initialEdges": [
+        {
+          "source": "134c83cc-6e27-475a-97b2-add06a19817a",
+          "sourceHandle": null,
+          "target": "6bd4ed06-af09-42ee-ad57-a1dcbfdcc6dd",
+          "targetHandle": null,
+          "id": "reactflow__edge-134c83cc-6e27-475a-97b2-add06a19817a-6bd4ed06-af09-42ee-ad57-a1dcbfdcc6dd"
+        }
+      ],
+      "initialNodes": [
+        {
+          "id": "6bd4ed06-af09-42ee-ad57-a1dcbfdcc6dd",
+          "type": "startNode",
+          "position": {
+            "x": 150,
+            "y": 120
+          },
+          "isAdded": true,
+          "width": 60,
+          "height": 40
+        },
+        {
+          "id": "134c83cc-6e27-475a-97b2-add06a19817a",
+          "type": "textNode",
+          "position": {
+            "x": 276,
+            "y": 105.5
+          },
+          "isAdded": true,
+          "width": 180,
+          "height": 70,
+          "selected": true,
+          "positionAbsolute": {
+            "x": 276,
+            "y": 105.5
+          },
+          "dragging": false
+        }
+      ],
+      "nodesOrder": "startNode"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.textNode {
+    height: 70px;
+    width: 180px;
+    color: #000069;
+    background-color: #a1a1ff;
+    border-radius: 5px;
+    padding: 2%;
+}
